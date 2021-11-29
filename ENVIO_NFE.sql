@@ -1,3 +1,4 @@
+--select status nfe
 SELECT
 	date_nfe ,
 	time_nfe ,
